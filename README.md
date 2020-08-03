@@ -8,3 +8,5 @@
 <a href="https://www.linkedin.com/in/akhil-manoj-5b908b1a0/">	
   <img align="center" alt="Akhil Manoj | LinkdeIn" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />	
 </a>
+  
+<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkM-2018)](https://github.com/AkM-2018/github-readme-stats)
