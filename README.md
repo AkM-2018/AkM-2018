@@ -1,7 +1,7 @@
 ![Hello, Im Akhil](https://user-images.githubusercontent.com/50191787/88482812-4a26a980-cf81-11ea-9985-07c4668bee5d.png)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AkM-2018&show_icons=true" alt="AkM-2018"/>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=AkM-2018&show_icons=true&theme=dark" alt="AkM-2018"/>
 </p>
 
 <p align="center">
