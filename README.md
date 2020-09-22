@@ -13,7 +13,7 @@
 <a href="https://www.leetcode.com/akm-2018" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="akm-2018" height="30" width="30" /></a>
 </p>
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akm-2018" alt="akm-2018" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=akm-2018" alt="akm-2018" /> </p>
 
 
 
